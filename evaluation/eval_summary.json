@@ -1,0 +1,7 @@
+{
+  "n_tests": 14,
+  "qa_accuracy_%": 100.0,
+  "retrieval_hit_rate_%": 100.0,
+  "avg_latency_s": 2.517,
+  "grader_negative_controls_caught": "3/3"
+}
